@@ -1,0 +1,117 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "profiles": "Profiles",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Find Your Perfect Match",
+      "subtitle": "in the Agarwal Community",
+      "description": "Premium matchmaking service for the Agarwal community in Punjab, dedicated to creating beautiful marriages based on tradition and compatibility.",
+      "cta": {
+        "browse": "Browse Profiles",
+        "register": "Register Now"
+      }
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "items": [
+        {
+          "title": "Exclusively Agarwal",
+          "description": "Our service is exclusively for the Agarwal community, ensuring cultural compatibility and shared values."
+        },
+        {
+          "title": "Verified Profiles",
+          "description": "All profiles are manually verified to ensure authenticity and build trust in our community."
+        },
+        {
+          "title": "Privacy Focused",
+          "description": "We prioritize your privacy with strict controls over who can view your information."
+        },
+        {
+          "title": "Traditional Values",
+          "description": "We honor traditional values while embracing modern matching techniques."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Success Stories",
+      "testimonials": [
+        {
+          "quote": "Agarwal Matrimonial Punjab helped us find each other and build a beautiful life together.",
+          "author": "Anil & Priya Agarwal",
+          "location": "Ludhiana"
+        },
+        {
+          "quote": "The personalized matching service really understood what we were looking for in a life partner.",
+          "author": "Vikram & Sunita Agarwal",
+          "location": "Amritsar"
+        },
+        {
+          "quote": "Our families are thrilled with the match. The cultural compatibility has made our union stronger.",
+          "author": "Rajesh & Meena Agarwal",
+          "location": "Jalandhar"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Our Success in Numbers",
+      "items": [
+        {
+          "value": "10,000+",
+          "label": "Registered Members"
+        },
+        {
+          "value": "5,000+",
+          "label": "Successful Matches"
+        },
+        {
+          "value": "15+",
+          "label": "Years of Experience"
+        },
+        {
+          "value": "99%",
+          "label": "Satisfaction Rate"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Begin Your Journey Today",
+      "description": "Take the first step towards finding your perfect match in the Agarwal community.",
+      "button": "Register Now"
+    }
+  },
+  "footer": {
+    "links": {
+      "title": "Quick Links",
+      "items": [
+        "Home",
+        "About Us",
+        "Profiles",
+        "Blog",
+        "Contact",
+        "Terms & Conditions",
+        "Privacy Policy"
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": "SCO 123, Sector 17, Chandigarh, Punjab, India",
+      "phone": "+91 98765 43210",
+      "email": "info@agarwalmatrimonialpunjab.com"
+    },
+    "social": {
+      "title": "Connect With Us",
+      "items": [
+        "Facebook",
+        "Instagram",
+        "Twitter",
+        "LinkedIn"
+      ]
+    },
+    "copyright": "© 2025 Agarwal Matrimonial Punjab. All rights reserved."
+  }
+}
