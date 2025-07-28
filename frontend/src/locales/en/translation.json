@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "profiles": "Profiles",
+    "blog": "Blog",
+    "contact": "Contact",
+    "logout": "Logout"
+  },
+  "home": {
+    "hero": {
+      "title": "Find Your Perfect Match",
+      "subtitle": "in the Aggarwal, Sharma, Khatri, Arora, & other respected communities",
+      "description": "A premium matchmaking service for Aggarwal, Sharma, Khatri, Arora, and other esteemed North Indian communities — dedicated to nurturing meaningful connections rooted in tradition, culture, and compatibility.",
+      "cta": {
+        "browse": "Browse Profiles",
+        "register": "Register/Login"
+      }
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "items": [
+        {
+          "title": "Respected North Indian Communities",
+          "description": "Our service caters to Aggarwal, Sharma, Khatri, Arora, and other respected North Indian communities — ensuring cultural compatibility, shared values, and meaningful connections."
+        },
+        {
+          "title": "Verified Profiles",
+          "description": "All profiles are manually verified to ensure authenticity and build trust in our community."
+        },
+        {
+          "title": "Privacy Focused",
+          "description": "We prioritize your privacy with strict controls over who can view your information."
+        },
+        {
+          "title": "Traditional Values",
+          "description": "We honor traditional values while embracing modern matching techniques."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Success Stories",
+      "testimonials": [
+        {
+          "quote": "This platform helped us find each other and build a beautiful life together.",
+          "author": "Pardeep Mittal & Shilpa Garg",
+          "location": "Kotkapura & Moga"
+        },
+        {
+          "quote": "The personalized matching service really understood what we were looking for in a life partner.",
+          "author": "Deepak Goyal & Harshita Garg",
+          "location": "Kotakpura & Zeera"
+        },
+        {
+          "quote": "Our families are thrilled with the match. The cultural compatibility has made our union stronger.",
+          "author": "Chandan Garg & Alka Arean",
+          "location": "Kotkapura & Firozpur"
+        },
+        {
+          "quote": "We are grateful for the support and guidance throughout our matchmaking journey.",
+          "author": "Mohit Jain & Shikha Arean",
+          "location": "Zeera & Kotakapura"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Our Success in Numbers",
+      "items": [
+        {
+          "value": "4500+",
+          "label": "Registered Members"
+        },
+        {
+          "value": "415+",
+          "label": "Successful Matches"
+        },
+        {
+          "value": "17+",
+          "label": "Years of Experience"
+        },
+        {
+          "value": "99%",
+          "label": "Satisfaction Rate"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Begin Your Journey Today",
+      "description": "Take the first step towards finding your perfect match from among the Aggarwal, Sharma, Khatri, Arora, and other valued communities.",
+      "button": "Register Now"
+    }
+  },
+  "footer": {
+    "about": "aggarwal matchmaking service dedicated to creating meaningful and lasting marriages within the Aggarwal, Sharma, Khatri, Arora, and other respected North Indian communities.",
+    "links": {
+      "title": "Quick Links",
+      "items": [
+        "Home",
+        "About Us",
+        "Profiles",
+        "Contact",
+        "Privacy Policy"
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": "aggarwal matchmaking service, A Unit of Aggarwal Sewa Samiti (Regd.), Kotkapura 151204, District Faridkot, Punjab, India",
+      "phone1": "+91 9814738647 (O.P. Goyal)",
+      "phone2": "+91 8360332983 (Bhushan Mittal)",
+      "phone3": "+91 9814820338 (Sheetal Goel)",
+      "email": "aggarwalmatrimonialkkp@gmail.com"
+    },
+    "social": {
+      "title": "Connect With Us",
+      "items": [
+        "Facebook",
+        "Instagram",
+        "Twitter",
+        "LinkedIn"
+      ]
+    },
+    "copyright": "© 2025 aggarwal matchmaking service. All rights reserved.",
+    "madeBy": "Made with love by"
+  }
+}

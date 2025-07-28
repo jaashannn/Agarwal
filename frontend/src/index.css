@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  @apply bg-background text-text font-inter;
+  margin: 0;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-playfair font-semibold leading-tight text-text;
+}
+
+p {
+  @apply text-text text-base leading-relaxed;
+}
+
+/* Custom component classes */
+@layer components {
+  .glass-card {
+    @apply bg-blush-light border border-accent/30 rounded-lg shadow-md backdrop-blur-sm transition-all duration-300;
+  }
+
+  .btn-primary {
+    @apply px-6 py-3 bg-accent text-white font-semibold rounded-md transition-all duration-300 hover:bg-accent-dark shadow-md hover:shadow-lg transform hover:-translate-y-1;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 bg-gold text-text font-medium rounded-md transition-all duration-300 hover:bg-gold-dark shadow-md hover:shadow-lg transform hover:-translate-y-1;
+  }
+
+  .btn-outline {
+    @apply px-6 py-3 bg-transparent border-2 border-accent text-accent font-medium rounded-md transition-all duration-300 hover:bg-accent/10 shadow-sm hover:shadow-md;
+  }
+
+  .hero-gradient {
+    @apply bg-gradient-to-br from-blush-light via-white to-background;
+  }
+
+  .gold-highlight {
+    @apply relative after:absolute after:bottom-0 after:left-0 after:w-full after:h-[3px] after:bg-gold after:rounded-full;
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "agarwal-matrimonial-punjab-server",
+  "version": "1.0.0",
+  "description": "Agarwal Matrimonial Punjab Server",
+  "main": "server.js",
+  "author": "Agarwal Matrimonial Team",
+  "license": "",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.7.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.18.2",
+    "express-validator": "^7.2.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0",
+    "multer": "^2.0.1",
+    "nodemailer": "^7.0.5",
+    "nodemon": "^3.1.10"
+  }
+}
